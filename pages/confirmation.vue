@@ -1,5 +1,5 @@
 <template>
   <main>
-    <h1>Confirmation</h1>
+    <h1>Sign up Confirmed!!</h1>
   </main>
 </template>

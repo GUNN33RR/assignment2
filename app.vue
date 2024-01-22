@@ -5,6 +5,7 @@
     <NuxtPage />
   </div>
   <AppFooter />
+
 </template>
 <style>
 body {
